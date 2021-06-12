@@ -35,4 +35,4 @@ plt.pie(x=y,labels=x,autopct='%1.0f%%',
         shadow=False)
 
 plt.title("Graduate's studies level")
-plt.savefig("fig6graduatelevel.png",format="png")
+plt.savefig("fig6graduatelevel.tiff",format="tiff")

@@ -41,4 +41,4 @@ plt.pie(x=y,labels=x,autopct='%1.0f%%',
         shadow=False)
 
 plt.title("Contribution of the work for graduates")
-plt.savefig("fig8contribution.png",format="png")
+plt.savefig("fig8contribution.tiff",format="tiff")

@@ -10,4 +10,4 @@ plt.pie(x=y,labels=x,autopct='%1.0f%%',
         shadow=False)
 
 plt.title("Participation in academic events")
-plt.savefig("fig7congress.png",format="png")
+plt.savefig("fig7congress.tiff",format="tiff")

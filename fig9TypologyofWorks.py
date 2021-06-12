@@ -13,4 +13,4 @@ plt.barh(width=x,y=y,align='center')
 plt.title("Contribution of the work for graduates")
 plt.tight_layout()
 
-plt.savefig("fig9topology.png",format="png")
+plt.savefig("fig9topology.tiff",format="tiff")
